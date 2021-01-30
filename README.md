@@ -1,4 +1,4 @@
-![GitHub repo size](https://img.shields.io/github/repo-size/eduardo-rogerio/Etec-Votuporanga) ![GitHub language count](https://img.shields.io/github/languages/count/eduardo-rogerio/Agenda) ![GitHub top language](https://img.shields.io/github/languages/top/eduardo-rogerio/Agenda) ![GitHub](https://img.shields.io/github/license/eduardo-rogerio/Agenda)
+![GitHub repo size](https://img.shields.io/github/repo-size/eduardo-rogerio/Etec-Votuporanga) ![GitHub language count](https://img.shields.io/github/languages/count/eduardo-rogerio/Agenda) ![GitHub top language](https://img.shields.io/github/languages/top/eduardo-rogerio/Agenda) ![GitHub](https://img.shields.io/github/license/eduardo-rogerio/Agenda?style=plastic)
 # Agenda
 ![](https://github.com/eduardo-rogerio/Agenda/blob/main/img/Agenda.PNG)
 
