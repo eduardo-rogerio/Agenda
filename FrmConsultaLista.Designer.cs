@@ -120,6 +120,7 @@
             this.Controls.Add(this.BtnFechar);
             this.Controls.Add(this.BtnConsultar);
             this.Name = "FrmConsultarLista";
+            this.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen;
             this.Text = "FrmConsultarLista";
             this.Load += new System.EventHandler(this.FrmConsultarLista_Load);
             ((System.ComponentModel.ISupportInitialize)(this.dataGridView1)).EndInit();
